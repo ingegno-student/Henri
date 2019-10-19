@@ -1,12 +1,12 @@
 Test !
-Heel goed gedaan.
-
-## hallo
 
 --halo--
 **henri**
 *henri*
 ~~henri~~
+Heel goed gedaan.
+_hallo_
+## hallo
 **_henri_**
 
 ### het resultaat:
